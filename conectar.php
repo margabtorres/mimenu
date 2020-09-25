@@ -1,5 +1,5 @@
 <?php
-//archio que sera ignorado por git, ahora que tal
+//archio que sera ignorado por git
 $server="localhost";
 $uid="root";
 $upass="";
